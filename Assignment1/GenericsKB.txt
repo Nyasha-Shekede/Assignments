@@ -1,0 +1,2 @@
+chromoplast	Chromoplasts contain red or yellow xanthophyll pigments in large amounts.	0.8275687098503113
+tobacco	Tobacco increases acid production and damages the lining of the stomach.	0.7157122492790222
